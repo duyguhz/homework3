@@ -1,0 +1,5 @@
+/Users/duyguhasanzade/Projects/homework3./homework3./obj/Debug/netcoreapp3.1/homework3..csproj.AssemblyReference.cache
+/Users/duyguhasanzade/Projects/homework3./homework3./obj/Debug/netcoreapp3.1/homework3..GeneratedMSBuildEditorConfig.editorconfig
+/Users/duyguhasanzade/Projects/homework3./homework3./obj/Debug/netcoreapp3.1/homework3..AssemblyInfoInputs.cache
+/Users/duyguhasanzade/Projects/homework3./homework3./obj/Debug/netcoreapp3.1/homework3..AssemblyInfo.cs
+/Users/duyguhasanzade/Projects/homework3./homework3./obj/Debug/netcoreapp3.1/homework3..csproj.CoreCompileInputs.cache
